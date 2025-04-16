@@ -1,3 +1,5 @@
+switch e case
+
 let numerodia = parseInt(prompt("1- Domingo\n2 - segunda-feira\n3 - terça-feira\n4 - quarta-feira\n5 quinta-feira\n6 - sexta-feira\n7- sabado"))
 
 switch(numerodia){
